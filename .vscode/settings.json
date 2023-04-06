@@ -1,3 +1,6 @@
 {
-    "julia.executablePath": "/snap/bin/julia"
+    "julia.executablePath": "/snap/bin/julia",
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }
